@@ -38,3 +38,10 @@ The dataset includes specifications like price, battery capacity, range, energy 
 # Conclusion
 This project provides a deep dive into the EV market in Poland, offering tools and insights to help consumers and stakeholders make informed decisions. The analysis also opens opportunities for future research in EV efficiency and market trends.
 
+# Keywords
+[Python, Data Analysis, Data Visualization, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Machine Learning, EV Analysis, Statistical Analysis, Hypothesis Testing, Two-Sample T-Test, Battery Capacity, Energy Consumption, Range Analysis, EV Recommendation System, Jupyter Notebook, Data Cleaning, Data Insights, Predictive Modeling, Electric Vehicles]
+
+Author
+Ashish Kumar Jha
+
+Feel free to contribute or share your feedback by submitting issues or pull requests.
