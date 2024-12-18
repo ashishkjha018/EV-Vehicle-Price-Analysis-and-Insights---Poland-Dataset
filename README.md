@@ -2,20 +2,20 @@
 This repository contains an analysis of EV vehicle specifications and pricing using a dataset from Poland. Includes data cleaning, exploration, and visualization with Python to uncover insights into price trends and vehicle features. Perfect for data enthusiasts and EV market analysts.
 
 # Key Features
-# Task 1: Budget and Range Analysis
+## Task 1: Budget and Range Analysis
 Filtered EVs within a budget of 350,000 PLN and a minimum range of 400 km.
 Grouped results by manufacturer and calculated the average battery capacity for each brand.
 
-# Task 2: Identifying Energy Consumption Outliers
+## Task 2: Identifying Energy Consumption Outliers
 Detected anomalies in energy consumption (mean energy consumption [kWh/100 km]) using statistical methods.
 
-# Task 3: Relationship Between Battery Capacity and Range
+## Task 3: Relationship Between Battery Capacity and Range
 Visualized and analyzed the correlation between battery capacity and range, providing actionable insights on EV efficiency.
 
-# Task 4: EV Recommendation System
+## Task 4: EV Recommendation System
 Built a Python class to recommend the top 3 EVs based on user inputs such as budget, desired range, and battery capacity.
 
-# Task 5: Hypothesis Testing
+## Task 5: Hypothesis Testing
 Conducted a two-sample t-test to compare the average engine power of Tesla and Audi EVs.
 Derived insights and provided actionable recommendations for manufacturers and consumers.
 
